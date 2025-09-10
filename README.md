@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajib Das
 
-<!--
-**rajibcse94/rajibcse94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity & Cloud-Infra | 💻 System & Networking | 📊 Tech Explorer  
 
-Here are some ideas to get you started:
+### 🔧 What I work on
+- 🛡️ Cyber Security & Incident Response
+- ☁️ Cloud Security & DevOps
+- 🐳 Docker & Containerized Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Projects
+- 🔹 Docker Install Script for Ubuntu
+- 🔹 Nagios Monitoring with Docker
+- 🔹 Cloud-based Blockchain Ticketing System
+
+### 📫 Connect with me
+- 🌐 [GitHub](https://github.com/rajibcse94)
+- ✉️ Email: rajibcse94@gmail.com
+ 
